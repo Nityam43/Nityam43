@@ -48,9 +48,3 @@ I am a dedicated **MERN Stack Developer** focused on building robust web applica
 <div align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=Nityam_43&theme=dark" alt="LeetCode Badges" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nityam43&color=46E3B7&style=for-the-badge&label=VISITORS" alt="Profile Views" />
-</div>
