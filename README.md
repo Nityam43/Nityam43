@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a dedicated **MERN Stack Developer** passionate about building robust web applications and solving complex algorithmic challenges. I bridge the gap between creative front-end design and scalable back-end architecture, while consistently sharpening my logic through **Data Structures and Algorithms** on LeetCode.
 
-* 🚀 Currently honing my skills in **Next.js** and **System Design**.
+* 🚀 Currently honing my skills in **React.js**.
 * 💡 I enjoy solving daily challenges on **LeetCode** to improve my problem-solving efficiency.
 * 💬 Ask me about **React, Node.js, or DSA**.
 * ⚡ Fun fact: I believe clean code is just as important as an optimized algorithm.
@@ -14,7 +14,7 @@ I am a dedicated **MERN Stack Developer** passionate about building robust web a
 
 # 🧩 LeetCode Stats:
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Nityam_43&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Nityam_43?theme=dark&font=Recursive" alt="LeetCode Stats" />
   <br/>
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=Nityam_43&theme=dark" alt="LeetCode Badges" />
 </div>
@@ -26,7 +26,5 @@ I am a dedicated **MERN Stack Developer** passionate about building robust web a
 
 ---
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Nityam43&icon=0&color=0" alt="Visit Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Nityam43&color=blue" alt="Profile Views" />
 </div>
