@@ -34,10 +34,10 @@ I am a dedicated **MERN Stack Developer** focused on building robust web applica
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Nityam43&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" height="170px" />
+         <img src="https://github-readme-stats.vercel.app/api?username=Nityam43&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" height="170"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nityam43&theme=tokyonight&hide_border=true&layout=compact" height="170px" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nityam43&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
       </td>
     </tr>
   </table>
